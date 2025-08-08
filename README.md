@@ -1,4 +1,4 @@
-# 👋 Hi, I’m @Hikma-Ahmed7040
+# 👋 Hi, I’m Hikma Ahmed
 
 -  I’m interested in **computer vision, machine learning, and data science**. I'm passionate about creating impactful solutions using these technologies.
 -  I’m currently learning **Python, OpenCV, machine learning algorithms**, and **deep learning**. My goal is to specialize in **computer vision**.
